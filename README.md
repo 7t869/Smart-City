@@ -45,7 +45,7 @@ Steps to Run the Project
 
 Clone the Repository:
 
-git clone https://github.com/your-username/SmartCityProject.git
+git clone https://github.com/7t869/SmartCityProject.git
 
 Open Eclipse and Import the Project.
 
